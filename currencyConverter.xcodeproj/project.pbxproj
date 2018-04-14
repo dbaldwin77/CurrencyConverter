@@ -12,6 +12,7 @@
 		5ECF0F9120801FB7007DDBD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ECF0F8F20801FB7007DDBD6 /* Main.storyboard */; };
 		5ECF0F9320801FB8007DDBD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ECF0F9220801FB8007DDBD6 /* Assets.xcassets */; };
 		5ECF0F9620801FB8007DDBD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ECF0F9420801FB8007DDBD6 /* LaunchScreen.storyboard */; };
+		5ECF0F9E2080283C007DDBD6 /* pound-yen-euro-dollar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5ECF0F9D2080283C007DDBD6 /* pound-yen-euro-dollar.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5ECF0F9220801FB8007DDBD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ECF0F9520801FB8007DDBD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5ECF0F9720801FB8007DDBD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5ECF0F9D2080283C007DDBD6 /* pound-yen-euro-dollar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pound-yen-euro-dollar.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5ECF0F8F20801FB7007DDBD6 /* Main.storyboard */,
 				5ECF0F9220801FB8007DDBD6 /* Assets.xcassets */,
 				5ECF0F9420801FB8007DDBD6 /* LaunchScreen.storyboard */,
+				5ECF0F9D2080283C007DDBD6 /* pound-yen-euro-dollar.png */,
 				5ECF0F9720801FB8007DDBD6 /* Info.plist */,
 			);
 			path = currencyConverter;
@@ -124,6 +127,7 @@
 			files = (
 				5ECF0F9620801FB8007DDBD6 /* LaunchScreen.storyboard in Resources */,
 				5ECF0F9320801FB8007DDBD6 /* Assets.xcassets in Resources */,
+				5ECF0F9E2080283C007DDBD6 /* pound-yen-euro-dollar.png in Resources */,
 				5ECF0F9120801FB7007DDBD6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
