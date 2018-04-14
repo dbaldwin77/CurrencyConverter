@@ -47,14 +47,11 @@ class ViewController: UIViewController {
                 euro.text = forE
                 self.resignFirstResponder()
             }
-                
             else
             {
                 print("error")
                 clear(UIEvent.self)
-                
             }
-            
         }
         else
         {
@@ -82,14 +79,11 @@ class ViewController: UIViewController {
         euro.text = forE
        textField.resignFirstResponder()
         }
-    
         else
         {
           print("error")
             clear(UIEvent.self)
- 
         }
-            
         }
         else
         {
@@ -104,6 +98,5 @@ class ViewController: UIViewController {
          yen.text = "0.00"
          euro.text = "0.00"
     }
-    
 }
 
